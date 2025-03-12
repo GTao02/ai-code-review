@@ -1,0 +1,3 @@
+25-03-12.22:24:39.971 [main            ] WARN  ClassPathMapperScanner - No MyBatis mapper was found in '[com.tao]' package. Please check your configuration.
+25-03-12.22:29:42.705 [main            ] WARN  ClassPathMapperScanner - No MyBatis mapper was found in '[com.tao]' package. Please check your configuration.
+25-03-12.22:34:12.287 [main            ] WARN  ClassPathMapperScanner - No MyBatis mapper was found in '[com.tao]' package. Please check your configuration.
