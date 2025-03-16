@@ -39,4 +39,5 @@ build/
 
 ### 其他 ###
 /.idea/
-/data/
+**/data/
+
